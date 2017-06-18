@@ -1,0 +1,13 @@
+{
+    "presets": [
+        "es2015",
+        "stage-0",
+        "stage-1",
+        "react"
+    ],
+    "plugins": [
+      "transform-react-es6-displayname",
+      "add-module-exports",
+      "transform-object-assign"
+    ]
+}
